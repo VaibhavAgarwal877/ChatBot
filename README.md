@@ -1,4 +1,5 @@
 # ChatBot
+TO RUN THE CODE: Streamlit run chatbot.py
 <img width="1325" height="617" alt="Architecture" src="https://github.com/user-attachments/assets/37170a7d-42ea-468d-a8a1-a839d3bb7c71" />
 
 
